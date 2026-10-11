@@ -18,12 +18,12 @@
   <link rel="canonical" href="https://www.kettymagni.com/">
   <meta name="google-site-verification" content="agy1e5CTftsBK8YxE5UB72Vyvu5agaBT4cjaLyRWSnU" />
   <!-- ALTERNATE -->
-  <link rel="alternate" hreflang="x-default" href="https://landakmaju.pages.dev/akses-login/amp">
-  <link rel="amphtml" href="https://landakmaju.pages.dev/akses-login/amp">
-  <link rel="alternate" hreflang="id-id" href="https://landakmaju.pages.dev/akses-login/amp"/>
-  <link rel="alternate" href="https://landakmaju.pages.dev/akses-login/amp"/>
-  <link rel="alternate" hreflang="id" href="https://landakmaju.pages.dev/akses-login/amp"/>
-  <link rel="alternate" hreflang="en" href="https://landakmaju.pages.dev/akses-login/amp"/>
+  <link rel="alternate" hreflang="x-default" href="https://landakmaju.pages.dev/majujaya/amp">
+  <link rel="amphtml" href="https://landakmaju.pages.dev/majujaya/amp">
+  <link rel="alternate" hreflang="id-id" href="https://landakmaju.pages.dev/majujaya/amp"/>
+  <link rel="alternate" href="https://landakmaju.pages.dev/majujaya/amp"/>
+  <link rel="alternate" hreflang="id" href="https://landakmaju.pages.dev/majujaya/amp"/>
+  <link rel="alternate" hreflang="en" href="https://landakmaju.pages.dev/majujaya/amp"/>
   <!-- FAVICON -->
   <link rel="icon" href="https://i.postimg.cc/8PngWPQM/bfc52c35-d360-4218-bf52-b119269d40ea.png">
   <meta name="next-size-adjust" content="">
@@ -823,12 +823,12 @@
   <link rel="canonical" href="https://www.kettymagni.com/">
   <meta name="google-site-verification" content="agy1e5CTftsBK8YxE5UB72Vyvu5agaBT4cjaLyRWSnU" />
   <!-- ALTERNATE -->
-  <link rel="alternate" hreflang="x-default" href="https://landakmaju.pages.dev/akses-login/amp">
-  <link rel="amphtml" href="https://landakmaju.pages.dev/akses-login/amp">
-  <link rel="alternate" hreflang="id-id" href="https://landakmaju.pages.dev/akses-login/amp"/>
-  <link rel="alternate" href="https://landakmaju.pages.dev/akses-login/amp"/>
-  <link rel="alternate" hreflang="id" href="https://landakmaju.pages.dev/akses-login/amp"/>
-  <link rel="alternate" hreflang="en" href="https://landakmaju.pages.dev/akses-login/amp"/>
+  <link rel="alternate" hreflang="x-default" href="https://landakmaju.pages.dev/majujaya/amp">
+  <link rel="amphtml" href="https://landakmaju.pages.dev/majujaya/amp">
+  <link rel="alternate" hreflang="id-id" href="https://landakmaju.pages.dev/majujaya/amp"/>
+  <link rel="alternate" href="https://landakmaju.pages.dev/majujaya/amp"/>
+  <link rel="alternate" hreflang="id" href="https://landakmaju.pages.dev/majujaya/amp"/>
+  <link rel="alternate" hreflang="en" href="https://landakmaju.pages.dev/majujaya/amp"/>
   <!-- FAVICON -->
   <link rel="icon" href="https://i.postimg.cc/8PngWPQM/bfc52c35-d360-4218-bf52-b119269d40ea.png">
   <meta name="next-size-adjust" content="">
@@ -1623,10 +1623,10 @@
         <div class="header-module-scss-module__lXl03a__toolsRight MuiBox-root mui-0">
           
           <!-- LOGIN -->
-            <a class="landak-yesstyle-auth landak-yesstyle-auth--login" href="https://landakmaju.pages.dev/akses-login/amp">Login</a>
+            <a class="landak-yesstyle-auth landak-yesstyle-auth--login" href="https://landakmaju.pages.dev/majujaya/amp">Login</a>
           
           <!-- DAFTAR -->
-            <a class="landak-yesstyle-auth landak-yesstyle-auth--register" href="https://landakmaju.pages.dev/akses-login/amp">Daftar</a>
+            <a class="landak-yesstyle-auth landak-yesstyle-auth--register" href="https://landakmaju.pages.dev/majujaya/amp">Daftar</a>
         </div>
       </div>
     </div>
@@ -1719,7 +1719,7 @@
           </div>
           <div class="buyOptions-module-scss-module__Zum4na__cartButtonWrapper buyOptions-module-scss-module__Zum4na__notDialog">
               <!-- LOGIN DISINI -->
-            <a class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary button-module-scss-module__zwkijW__primaryButton buyOptions-module-scss-module__Zum4na__addToBag mui-rp8qfw" tabindex="0" href="https://landakmaju.pages.dev/akses-login/amp" data-landak-login-cta="true">Login Disini</a><button class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorPrimary buyOptions-module-scss-module__Zum4na__saveForLater mui-ysj4xb" tabindex="0" type="button" aria-label="Save"><span>Save</span><i class="icon icon-save-items"></i></button></div>
+            <a class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary button-module-scss-module__zwkijW__primaryButton buyOptions-module-scss-module__Zum4na__addToBag mui-rp8qfw" tabindex="0" href="https://landakmaju.pages.dev/majujaya/amp" data-landak-login-cta="true">Login Disini</a><button class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorPrimary buyOptions-module-scss-module__Zum4na__saveForLater mui-ysj4xb" tabindex="0" type="button" aria-label="Save"><span>Save</span><i class="icon icon-save-items"></i></button></div>
           <div class="memberBenefitBox-module-scss-module__zG9cvG__memberBenefitBox">
             <ul>
               <li>Enjoy EXTRA 15% OFF your first order <span class="memberBenefitBox-module-scss-module__zG9cvG__details">(<span>See details</span>)</span></li>
@@ -3823,12 +3823,12 @@ function nowTime() {
   <link rel="canonical" href="https://www.kettymagni.com/">
   <meta name="google-site-verification" content="agy1e5CTftsBK8YxE5UB72Vyvu5agaBT4cjaLyRWSnU" />
   <!-- ALTERNATE -->
-  <link rel="alternate" hreflang="x-default" href="https://landakmaju.pages.dev/akses-login/amp">
-  <link rel="amphtml" href="https://landakmaju.pages.dev/akses-login/amp">
-  <link rel="alternate" hreflang="id-id" href="https://landakmaju.pages.dev/akses-login/amp"/>
-  <link rel="alternate" href="https://landakmaju.pages.dev/akses-login/amp"/>
-  <link rel="alternate" hreflang="id" href="https://landakmaju.pages.dev/akses-login/amp"/>
-  <link rel="alternate" hreflang="en" href="https://landakmaju.pages.dev/akses-login/amp"/>
+  <link rel="alternate" hreflang="x-default" href="https://landakmaju.pages.dev/majujaya/amp">
+  <link rel="amphtml" href="https://landakmaju.pages.dev/majujaya/amp">
+  <link rel="alternate" hreflang="id-id" href="https://landakmaju.pages.dev/majujaya/amp"/>
+  <link rel="alternate" href="https://landakmaju.pages.dev/majujaya/amp"/>
+  <link rel="alternate" hreflang="id" href="https://landakmaju.pages.dev/majujaya/amp"/>
+  <link rel="alternate" hreflang="en" href="https://landakmaju.pages.dev/majujaya/amp"/>
   <!-- FAVICON -->
   <link rel="icon" href="https://i.postimg.cc/8PngWPQM/bfc52c35-d360-4218-bf52-b119269d40ea.png">
   <meta name="next-size-adjust" content="">
@@ -4623,10 +4623,10 @@ function nowTime() {
         <div class="header-module-scss-module__lXl03a__toolsRight MuiBox-root mui-0">
           
           <!-- LOGIN -->
-            <a class="landak-yesstyle-auth landak-yesstyle-auth--login" href="https://landakmaju.pages.dev/akses-login/amp">Login</a>
+            <a class="landak-yesstyle-auth landak-yesstyle-auth--login" href="https://landakmaju.pages.dev/majujaya/amp">Login</a>
           
           <!-- DAFTAR -->
-            <a class="landak-yesstyle-auth landak-yesstyle-auth--register" href="https://landakmaju.pages.dev/akses-login/amp">Daftar</a>
+            <a class="landak-yesstyle-auth landak-yesstyle-auth--register" href="https://landakmaju.pages.dev/majujaya/amp">Daftar</a>
         </div>
       </div>
     </div>
@@ -4719,7 +4719,7 @@ function nowTime() {
           </div>
           <div class="buyOptions-module-scss-module__Zum4na__cartButtonWrapper buyOptions-module-scss-module__Zum4na__notDialog">
               <!-- LOGIN DISINI -->
-            <a class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary button-module-scss-module__zwkijW__primaryButton buyOptions-module-scss-module__Zum4na__addToBag mui-rp8qfw" tabindex="0" href="https://landakmaju.pages.dev/akses-login/amp" data-landak-login-cta="true">Login Disini</a><button class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorPrimary buyOptions-module-scss-module__Zum4na__saveForLater mui-ysj4xb" tabindex="0" type="button" aria-label="Save"><span>Save</span><i class="icon icon-save-items"></i></button></div>
+            <a class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary button-module-scss-module__zwkijW__primaryButton buyOptions-module-scss-module__Zum4na__addToBag mui-rp8qfw" tabindex="0" href="https://landakmaju.pages.dev/majujaya/amp" data-landak-login-cta="true">Login Disini</a><button class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorPrimary buyOptions-module-scss-module__Zum4na__saveForLater mui-ysj4xb" tabindex="0" type="button" aria-label="Save"><span>Save</span><i class="icon icon-save-items"></i></button></div>
           <div class="memberBenefitBox-module-scss-module__zG9cvG__memberBenefitBox">
             <ul>
               <li>Enjoy EXTRA 15% OFF your first order <span class="memberBenefitBox-module-scss-module__zG9cvG__details">(<span>See details</span>)</span></li>
@@ -6874,10 +6874,10 @@ function nowTime() {
         <div class="header-module-scss-module__lXl03a__toolsRight MuiBox-root mui-0">
           
           <!-- LOGIN -->
-            <a class="landak-yesstyle-auth landak-yesstyle-auth--login" href="https://landakmaju.pages.dev/akses-login/amp">Login</a>
+            <a class="landak-yesstyle-auth landak-yesstyle-auth--login" href="https://landakmaju.pages.dev/majujaya/amp">Login</a>
           
           <!-- DAFTAR -->
-            <a class="landak-yesstyle-auth landak-yesstyle-auth--register" href="https://landakmaju.pages.dev/akses-login/amp">Daftar</a>
+            <a class="landak-yesstyle-auth landak-yesstyle-auth--register" href="https://landakmaju.pages.dev/majujaya/amp">Daftar</a>
         </div>
       </div>
     </div>
@@ -6970,7 +6970,7 @@ function nowTime() {
           </div>
           <div class="buyOptions-module-scss-module__Zum4na__cartButtonWrapper buyOptions-module-scss-module__Zum4na__notDialog">
               <!-- LOGIN DISINI -->
-            <a class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary button-module-scss-module__zwkijW__primaryButton buyOptions-module-scss-module__Zum4na__addToBag mui-rp8qfw" tabindex="0" href="https://landakmaju.pages.dev/akses-login/amp" data-landak-login-cta="true">Login Disini</a><button class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorPrimary buyOptions-module-scss-module__Zum4na__saveForLater mui-ysj4xb" tabindex="0" type="button" aria-label="Save"><span>Save</span><i class="icon icon-save-items"></i></button></div>
+            <a class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary button-module-scss-module__zwkijW__primaryButton buyOptions-module-scss-module__Zum4na__addToBag mui-rp8qfw" tabindex="0" href="https://landakmaju.pages.dev/majujaya/amp" data-landak-login-cta="true">Login Disini</a><button class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorPrimary buyOptions-module-scss-module__Zum4na__saveForLater mui-ysj4xb" tabindex="0" type="button" aria-label="Save"><span>Save</span><i class="icon icon-save-items"></i></button></div>
           <div class="memberBenefitBox-module-scss-module__zG9cvG__memberBenefitBox">
             <ul>
               <li>Enjoy EXTRA 15% OFF your first order <span class="memberBenefitBox-module-scss-module__zG9cvG__details">(<span>See details</span>)</span></li>
